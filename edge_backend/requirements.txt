@@ -1,0 +1,7 @@
+# == edge_backend/requirements.txt ==
+flask
+paho-mqtt
+requests
+openai
+prophet
+pandas
